@@ -1,0 +1,2 @@
+# douyinpachongjieheaservershixiandouyinx-gorgon
+抖音爬虫结合AndServer，实现抖音X-Gorgon算法，设备id生成接口
